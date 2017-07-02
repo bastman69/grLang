@@ -9,3 +9,4 @@ My First Dilemmas are:
 5. Built on top of another lang as parser or from scratch
 6. Proof that can address complex conditionals or iterations
 7. which programming language to use? C? JS?
+8. receive support from a testing framework eg. PHPSPEC
